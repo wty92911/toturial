@@ -1,2 +1,2 @@
 # toturial
-a new_branch test
+a test
